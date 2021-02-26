@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.img-fluid {
+  margin-top: 100px;
+}
+.img-fluid .img-thumbnail {
+  width: 1400px;
+  height: 600px;
+  object-fit: scale-down;
+  background-color: #7a8686;
+}/*# sourceMappingURL=certificates.css.map */

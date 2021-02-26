@@ -1,0 +1,18 @@
+ body{
+     display: flex;
+     justify-content: center;
+
+  
+ }
+ 
+  .img-fluid{ 
+  margin-top: 100px;
+      
+  .img-thumbnail{
+    width: 1400px;
+    height: 500px;
+     object-fit: scale-down;
+     background-color: rgb(122, 134, 134);
+   
+  }
+ }
